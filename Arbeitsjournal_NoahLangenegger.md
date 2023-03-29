@@ -9,3 +9,6 @@ Wir hatten uns heute Morgen für ein Meeting verabredet, um am Testkonzept zu ar
 
 ## 12. März 2023
 Heute ist der Abgabetag, weswegen ich auch das Arbeitsjournal noch beendet hatte. Ausserdem lasen wir uns das Lastenheft und das Testkonzept nochmals durch. Insgesamt kann ich sagen das wir den Zeitplan gut eingehalten hatten und alle ihre Aufgabe wie abgemacht erledigten.
+
+## 29. März 2023
+In der Schule starteten wir heute mit dem zweiten Teil des Projekts. Zuerst klärten wir organisatorische Punkte wie z.B. das Abgabedatum. 
