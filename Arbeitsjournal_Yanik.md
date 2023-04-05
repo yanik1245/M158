@@ -31,3 +31,15 @@ Wir haben heute das Testkonzept auch noch fertigstellen können, da alle ihren T
   - Aufgrund der Unsicherheiten von oben, fragte ich Herr Keller.
 - Wie sah der Zeitaufwand aus
   - Der Zeitaufwand betrug zwischen 1.5 und 2 h.
+
+# 05. April 2023
+- Was wurde heute gemacht?
+  - 
+- Was lief gut?
+  - 
+- Wo gab es Schwierigkeiten?
+  - 
+- Hifestellungen
+  - 
+- Wie sah der Zeitaufwand aus
+  -
