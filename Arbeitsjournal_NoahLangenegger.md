@@ -11,4 +11,15 @@ Wir hatten uns heute Morgen für ein Meeting verabredet, um am Testkonzept zu ar
 Heute ist der Abgabetag, weswegen ich auch das Arbeitsjournal noch beendet hatte. Ausserdem lasen wir uns das Lastenheft und das Testkonzept nochmals durch. Insgesamt kann ich sagen das wir den Zeitplan gut eingehalten hatten und alle ihre Aufgabe wie abgemacht erledigten.
 
 ## 29. März 2023
-In der Schule starteten wir heute mit dem zweiten Teil des Projekts. Zuerst klärten wir organisatorische Punkte wie z.B. das Abgabedatum. 
+In der Schule starteten wir heute mit dem zweiten Teil des Projekts. Zuerst klärten wir organisatorische Punkte wie z.B. das Abgabedatum.
+
+## 05. April 2023
+- Was wurde heute gemacht?
+  - Konfigurationsmerkmale beschrieben
+  - Serveranforderungen beschrieben
+- Was lief gut?
+  - Das Zusammentragen der Serveranforderugen war einfach
+- Wo gab es Schwierigkeiten?
+  - Ich wusste zuerst nicht welche Konfigurationsmöglichkeiten beschrieben werden müssen
+- Wie sah der Zeitaufwand aus
+  - Der Zeitaufwand betrug ca. 1 h
