@@ -16,3 +16,18 @@ Ich hatte ein paar Überstunden gemacht, aber nur weil ich sehr entspannt gearbe
 
 # 12. März 2023
 Wir haben heute das Testkonzept auch noch fertigstellen können, da alle ihren Teil wieder einmal zuverlässig gemacht haben. Wir sind also bereit für die Abgabe. Heute waren die Überstunden nicht so viel, da gestern schon ein Grossteil der Arbeit erledigt wurde.
+
+# 29. März 2023
+- Was wurde heute gemacht?
+  - Heute habe ich den Projektplan mit den verschiedenen Arbeitspaketen erstellt.
+  - Die Arbeitspakete wurden noch nicht definiert.
+- Was lief gut?
+  - Das grobe Zusammentragen der Arbeitspakete war nicht sehr schwer.
+  - Dafür habe ich mich an den Anforderungen orientiert
+- Wo gab es Schwierigkeiten?
+  - Am Anfgang war ich mir nicht genau sicher, wie die Darstellung aussehen sollte.
+  - So musste ich mir überlegen, ob der ganze Zeitraum im Plan sein soll oder nur die Tage an denen Schule ist.
+- Hifestellungen
+  - Aufgrund der Unsicherheiten von oben, fragte ich Herr Keller.
+- Wie sah der Zeitaufwand aus
+  - Der Zeitaufwand betrug zwischen 1.5 und 2 h.
