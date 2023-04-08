@@ -16,10 +16,25 @@ In der Schule starteten wir heute mit dem zweiten Teil des Projekts. Zuerst klä
 ## 05. April 2023
 - Was wurde heute gemacht?
   - Konfigurationsmerkmale beschrieben
-  - Serveranforderungen beschrieben
+  - Softwareanforderungen beschrieben
 - Was lief gut?
-  - Das Zusammentragen der Serveranforderugen war einfach
+  - Das Zusammentragen der Softwareanforderungen war einfach
 - Wo gab es Schwierigkeiten?
   - Ich wusste zuerst nicht welche Konfigurationsmöglichkeiten beschrieben werden müssen
 - Wie sah der Zeitaufwand aus
   - Der Zeitaufwand betrug ca. 1 h
+
+## 08. April 2023
+- Was wurde heute gemacht?
+  - Hardwareanforderungen beschrieben
+  - Client-Anforderungen beschrieben
+- Was lief gut?
+  - Die Hardwareanforderungen im Internet zu finden
+  - Die Client-Anforderungen im Internet zu finden
+- Wo gab es Schwierigkeiten?
+  - keine
+- Wie sah der Zeitaufwand aus
+  - Der Zeitaufwand betrug ca. 30 min
+ 
+ 
+ 
