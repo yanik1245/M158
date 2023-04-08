@@ -18,7 +18,7 @@ In der Schule starteten wir heute mit dem zweiten Teil des Projekts. Zuerst klä
   - Konfigurationsmerkmale beschrieben
   - Softwareanforderungen beschrieben
 - Was lief gut?
-  - Das Zusammentragen der Softwareanforderungen war einfach
+  - Das Zusammentragen der Softwareanforderungen war einfach
 - Wo gab es Schwierigkeiten?
   - Ich wusste zuerst nicht welche Konfigurationsmöglichkeiten beschrieben werden müssen
 - Wie sah der Zeitaufwand aus
