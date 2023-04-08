@@ -36,5 +36,5 @@ In der Schule starteten wir heute mit dem zweiten Teil des Projekts. Zuerst klä
 - Wie sah der Zeitaufwand aus
   - Der Zeitaufwand betrug ca. 30 min
  
- 
+
  
