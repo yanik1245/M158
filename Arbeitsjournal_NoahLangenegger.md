@@ -22,7 +22,7 @@ In der Schule starteten wir heute mit dem zweiten Teil des Projekts. Zuerst klä
 - Wo gab es Schwierigkeiten?
   - Ich wusste zuerst nicht welche Konfigurationsmöglichkeiten beschrieben werden müssen
 - Wie sah der Zeitaufwand aus?
-  - Der Zeitaufwand betrug ca. 1 h
+  - Der Zeitaufwand betrug ca. 1.5 h
 
 ## 08. April 2023
 - Was wurde heute gemacht?
@@ -34,7 +34,19 @@ In der Schule starteten wir heute mit dem zweiten Teil des Projekts. Zuerst klä
 - Wo gab es Schwierigkeiten?
   - keine
 - Wie sah der Zeitaufwand aus?
-  - Der Zeitaufwand betrug ca. 30 min
+  - Der Zeitaufwand betrug ca. 1 h
  
+## 13. April 2023
+- Was wurde heute gemacht?
+  - PHP-Plugins auswählen und erklären
+- Was lief gut?
+  - Auswahl welche Plugins von Nutzen sind
+- Wo gab es Schwierigkeiten?
+  - geignete Plugins zu finden
+- Wie sah der Zeitaufwand aus?
+  - Der Zeitaufwand betrug ca. 1 h
+
+
+
 
  
