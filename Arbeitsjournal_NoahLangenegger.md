@@ -46,7 +46,15 @@ In der Schule starteten wir heute mit dem zweiten Teil des Projekts. Zuerst klä
 - Wie sah der Zeitaufwand aus?
   - Der Zeitaufwand betrug ca. 1 h
 
-
+## 14. April 2023
+- Was wurde heute gemacht?
+  - PHP-Extensions auswählen und erklären
+- Was lief gut?
+  - Erklärung der verschiedenen Extensions
+- Wo gab es Schwierigkeiten?
+  - Auswahl der zu beschreibenden Plugins, da es sehr viele benötigte Plugins für Moodle gibt
+- Wie sah der Zeitaufwand aus?
+  - Der Zeitaufwand betrug ca. 45 min
 
 
  
