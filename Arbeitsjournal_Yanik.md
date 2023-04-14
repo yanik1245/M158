@@ -34,6 +34,28 @@ Wir haben heute das Testkonzept auch noch fertigstellen können, da alle ihren T
 
 # 05. April 2023
 - Was wurde heute gemacht?
+  - Heute haben wir uns nochmals versichert, dass wir die Anforderungen korrekt umsetzen. 
+- Was lief gut?
+  - Wir wissen jetzt genau was erwartet wird und haben scho einmal grob ein paar Lösungsvorschläge vormuliert.
+- Wo gab es Schwierigkeiten?
+  - Leider haben wir und letzte Wochen ein wenig vertan und jetzt müssen wir die Arbeitspakete neu erstellen.
+- Hifestellungen
+  - Da wir uns, wie gesagt nicht sicher waren, was erwartet wird, haben wir und an Herrn Keller gewant.
+- Wie sah der Zeitaufwand aus
+  - Der Zeitaufwand war etwa 1.5 h.
+# 11. März 2023
+- Was wurde heute gemacht?
+  - 
+- Was lief gut?
+  - 
+- Wo gab es Schwierigkeiten?
+  - 
+- Hifestellungen
+  - 
+- Wie sah der Zeitaufwand aus
+  -
+# 14. März 2023
+- Was wurde heute gemacht?
   - 
 - Was lief gut?
   - 
