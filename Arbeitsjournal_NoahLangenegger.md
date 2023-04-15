@@ -56,5 +56,16 @@ In der Schule starteten wir heute mit dem zweiten Teil des Projekts. Zuerst klä
 - Wie sah der Zeitaufwand aus?
   - Der Zeitaufwand betrug ca. 45 min
 
-
+## 15. April 2023
+- Was wurde heute gemacht?
+  - PHP-Extensions erweitert
+  - Einleitung geschrieben
+  - Dokument prüfen
+- Was lief gut?
+  - Einleitung schreiben
+  - PHP-Extensions erweitern
+- Wo gab es Schwierigkeiten?
+  - keine
+- Wie sah der Zeitaufwand aus?
+  - Der Zeitaufwand betrug ca. 1.5 h
  
