@@ -17,3 +17,26 @@ Ich habe etwa eine Stunde an diesem Samstag an dem Projekt gearbeitet. Unsere Gr
 
 ### Arbeit vom Sonntag, 12.03.2023
 Am Sonntag habe ich am Lastenheft gearbeitet. Ich habe mit Yanik die Testfallbeschreibungen bearbeitet. Alles um das Thema Testrahmen habe ich auch an diesem Sonntag erledigt. Für die ganze Arbeit an diesem Tag brauchte ich etwa zwei Stunden.
+
+# 14. April 2023
+- Was wurde heute gemacht?
+  - 
+- Was lief gut?
+  - 
+- Wo gab es Schwierigkeiten?
+  - 
+- Hifestellungen
+  - 
+- Wie sah der Zeitaufwand aus
+  -
+# 15. April 2023
+- Was wurde heute gemacht?
+  - 
+- Was lief gut?
+  - 
+- Wo gab es Schwierigkeiten?
+  - 
+- Hifestellungen
+  - 
+- Wie sah der Zeitaufwand aus
+  -
