@@ -45,23 +45,29 @@ Wir haben heute das Testkonzept auch noch fertigstellen können, da alle ihren T
   - Der Zeitaufwand war etwa 1.5 h.
 # 11. März 2023
 - Was wurde heute gemacht?
-  - 
+  - Heute haben Louis und ich die drei Lösungsvorschläge definiert.
+  - Zudem habe ich mit der Nutzwertanalyse begonnen.
 - Was lief gut?
-  - 
+  - Das Erstellen der Nutzwertanalyse war recht einfach, da wir das schon einmal im Unterricht mit Herrn Lux machen mussten.
+  - Auch das ausarbeiten der Lösungsvorschläge war mit ein wenig Brainstorming nicht all zu schwer. 
 - Wo gab es Schwierigkeiten?
-  - 
+  - Wir hatten Schwierigkeiten bei der Darstellung und dem Inhalt des Lösungsvorschlags, da wir das so noch nie konkret gemacht haben.
+  - Auch die Kriterien für die Nutzwertanalyse war nicht ganz einfach.
 - Hifestellungen
-  - 
+  - Um herauszufinden was in einen Lösungsvorschlag kommt, haben wir ein wenig recherchiert und unsere Klassenkameraden gefragt.
+  - Da die Kriterien in einer Nutzwertanalyse sehr spezifisch sind, habe ich mir einfach viele Gedanken gemacht.
 - Wie sah der Zeitaufwand aus
-  -
+  - Der Zeitaufwand betrug ca. 2h.
 # 14. März 2023
 - Was wurde heute gemacht?
-  - 
+  - Heute habe ich die Nutzwertanalyse fertiggestellt und die Meilensteine und Arbeitspakete definiert.
 - Was lief gut?
-  - 
+  - Das Erstellen der Arbeitspakete lief problemlos, da wir im Lösungsvorschlag schon den ungefähren Ablauf mit den Aufgaben gemacht haben.
+  - Daher wusste ich was gemacht werden muss und habe die Hauptaufgaben in den Arbeitspaketen noch ausformuliert.
 - Wo gab es Schwierigkeiten?
-  - 
+  - Ich wusste nicht genau was in einem Meilenstein beschrieben werden muss, daher musste ich wieder ein wenig recherchieren.
 - Hifestellungen
-  - 
+  - Nach kurzer Recherche habe ich ein PDF gefunden, wie man einen Meilenstein beschreibt.
+  - Dieser muss Ziele beinhalten, terminiert sein und die Ziele müssen Messbar sein.
 - Wie sah der Zeitaufwand aus
-  -
+  - Da die Arbeit einigermassen flüssig verlief benötigte ich heute nur etwa 1h.
