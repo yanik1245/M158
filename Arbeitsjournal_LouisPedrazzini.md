@@ -18,11 +18,10 @@ Ich habe etwa eine Stunde an diesem Samstag an dem Projekt gearbeitet. Unsere Gr
 ### Arbeit vom Sonntag, 12.03.2023
 Am Sonntag habe ich am Lastenheft gearbeitet. Ich habe mit Yanik die Testfallbeschreibungen bearbeitet. Alles um das Thema Testrahmen habe ich auch an diesem Sonntag erledigt. Für die ganze Arbeit an diesem Tag brauchte ich etwa zwei Stunden.
 
-# 29. März 2023
-
+### 29. März 2023
 In der Berufsschule fingen wir heute mit dem zweiten Teil des Projektes an, nämlich dem Konzept. Wir erledigten hauptsächlich Organisatorische Dinge, wie die Rolleneinteilung und einen Projektplan usw.
 
-# 05. April 2023
+### 05. April 2023
 - Was wurde heute gemacht?
   - Ich habe mich über das alte Moodle System informiert.
   - Auch verschaffte ich mir eine Übersicht über Moodle.
@@ -33,7 +32,7 @@ In der Berufsschule fingen wir heute mit dem zweiten Teil des Projektes an, näm
 - Wie sah der Zeitaufwand aus
   - 1.5h
 
-# 11. April 2023
+### 11. April 2023
 - Was wurde heute gemacht?
   - Ich und Yanik Breitenmoser haben heute die Lösungsvorschläge für unser Projekt definiert.
 - Was lief gut?
@@ -43,7 +42,7 @@ In der Berufsschule fingen wir heute mit dem zweiten Teil des Projektes an, näm
 - Wie sah der Zeitaufwand aus
   - etwa 1h
 
-# 15. April 2023
+### 15. April 2023
 - Was wurde heute gemacht?
   - Ich habe für den Lösungsvorschlag 2 ein Docker-Compose File erstellt, welches ein Moodle Container und einen MySQL Container erstellt.
   - Einen MySQL Dump habe ich von der alten Moodle Seite erstellt.
@@ -56,7 +55,7 @@ In der Berufsschule fingen wir heute mit dem zweiten Teil des Projektes an, näm
 - Wie sah der Zeitaufwand aus
   - 2.5h
 
-# 16. April 2023
+### 16. April 2023
 - Was wurde heute gemacht?
   - Ich kopierte den Dump, welchen ich Gestern erstellt habe in den Container.
 - Was lief gut?
