@@ -43,7 +43,7 @@ Wir haben heute das Testkonzept auch noch fertigstellen können, da alle ihren T
   - Da wir uns, wie gesagt nicht sicher waren, was erwartet wird, haben wir und an Herrn Keller gewant.
 - Wie sah der Zeitaufwand aus
   - Der Zeitaufwand war etwa 1.5 h.
-# 11. März 2023
+# 11. April 2023
 - Was wurde heute gemacht?
   - Heute haben Louis und ich die drei Lösungsvorschläge definiert.
   - Zudem habe ich mit der Nutzwertanalyse begonnen.
@@ -58,7 +58,7 @@ Wir haben heute das Testkonzept auch noch fertigstellen können, da alle ihren T
   - Da die Kriterien in einer Nutzwertanalyse sehr spezifisch sind, habe ich mir einfach viele Gedanken gemacht.
 - Wie sah der Zeitaufwand aus
   - Der Zeitaufwand betrug ca. 2h.
-# 14. März 2023
+# 14. April 2023
 - Was wurde heute gemacht?
   - Heute habe ich die Nutzwertanalyse fertiggestellt und die Meilensteine und Arbeitspakete definiert.
 - Was lief gut?
