@@ -1,11 +1,5 @@
 ## Arbeitsjournal Louis Pedrazzini
 
-- [Arbeitsjournal Louis Pedrazzini](#arbeitsjournal-louis-pedrazzini)
-  - [Arbeit vom Mittwoch, 01.03.2023](#arbeit-vom-mittwoch-01032023)
-  - [Arbeit vom Mittwoch, 08.03.2023](#arbeit-vom-mittwoch-08032023)
-  - [Arbeit vom Samstag, 11.03.2023](#arbeit-vom-samstag-11032023)
-  - [Arbeit vom Sonntag, 12.03.2023](#arbeit-vom-sonntag-12032023)
-
 ### Arbeit vom Mittwoch, 01.03.2023 
 Die Projektarbeit wurde uns im Unterricht vorgestellt und wir haben uns in Gruppen aufgeteilt, in meiner Gruppe sind Yanik Breitenmoser und Noah Langenegger. Wir haben die ersten Vorbereitungen getroffen, wie die Projektrollen verteilen und auch die Dokumentvorlage nach unseren Vorstellungen zu gestalten.
 
