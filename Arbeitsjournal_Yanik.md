@@ -71,3 +71,11 @@ Wir haben heute das Testkonzept auch noch fertigstellen können, da alle ihren T
   - Dieser muss Ziele beinhalten, terminiert sein und die Ziele müssen Messbar sein.
 - Wie sah der Zeitaufwand aus
   - Da die Arbeit einigermassen flüssig verlief benötigte ich heute nur etwa 1h.
+# 17. Mai 2023
+- Was wurde heute gemacht?
+  - Heute habe ich das Dokument für die Realisation vorbereitet.
+  - Dazu habe ich die Anforderungen und Arbeitspakete nochmals kurz zusammengefasst in das Dokument geschrieben, damit für den Leser klar ist, um was es geht.
+- Was lief gut?
+  - Es war nicht sehr schwer diese Dinge aufzuführen, da diese im Lastenheft schon aufgeschrieben wurden.
+- Wo gab es Schwierigkeiten?
+  - Schwierigkeiten gab es keine
