@@ -79,3 +79,23 @@ Wir haben heute das Testkonzept auch noch fertigstellen können, da alle ihren T
   - Es war nicht sehr schwer diese Dinge aufzuführen, da diese im Lastenheft schon aufgeschrieben wurden.
 - Wo gab es Schwierigkeiten?
   - Schwierigkeiten gab es keine
+# 24. Mai 2023
+- Was wurde heute gemacht?
+  - Heute habe ich mit der Realisierung begonnen, leider nur mit mittelmässigem Erfolg.
+  - Konkret habe ich das alte Moodle auf den Port 8080 geändert und einen SQL-Dump erstellt und geprüft.
+- Was lief gut?
+  - Das ändern des Ports war nicht all zu Schwer, da ich das schon einmal gemacht habe und nur ein wenig recherchieren musste.
+- Wo gab es Schwierigkeiten?
+  - Schwierigkeiten gab es beim Prüfen des SQL-Dumps. Dieser konnte ohne Probleme exportiert werden.
+  - Nachdem wieder einfügen, war dieser aber zu klein und die Moodle-Seite wurde nur teilweise geladen.
+  - Leider habe ich heute noch keine Lösung gefunden.
+- Hifestellungen
+  - Als Hilfestellung habe ich Stackoverflow und einige andere Foren verwendet.
+- Wie sah der Zeitaufwand aus
+  - Der Zeitaufwand war mit der gesamten Recherche wegen dem SQL-Dump-Problem nicht so wie geplant.
+  - Es ging etwa 1 1/2h
+- Was muss noch gemacht werden?
+  - Ich muss jetzt noch folgendes machen
+    - Altes Moddle kennzeichnen
+    - Dump Prüfen
+    - docker-compose erstellen 
