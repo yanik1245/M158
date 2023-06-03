@@ -98,4 +98,38 @@ Wir haben heute das Testkonzept auch noch fertigstellen können, da alle ihren T
   - Ich muss jetzt noch folgendes machen
     - Altes Moddle kennzeichnen
     - Dump Prüfen
-    - docker-compose erstellen 
+    - docker-compose erstellen
+# 31. Mai 2023
+- Was wurde heute gemacht?
+  - Heute konnte ich den Fehler finden, weshalb die Moodle Seite nicht korrekt angezeigt wurde.
+  - So konnte ich den Dump vollständig testen und die Moodle-Seite anpassen.
+- Was lief gut?
+  - Die Lösung lag im Config-File von moodle. Dieses hat auch einen Binding-Port.
+  - Wenn dieser in der V-Host-Datei geändert wird, muss das auch im Config gemacht werden, sonst funktioniert das nicht.
+- Wo gab es Schwierigkeiten?
+  - Dieses Mal gab es keine Schwierigkeiten
+- Hifestellungen
+  - Stackoverflow
+  - Moodle-docks
+- Wie sah der Zeitaufwand auf
+  - Es ging etwa 1h
+- Was muss noch gemacht werden?
+  - Ich muss jetzt noch folgendes machen
+    - docker-compose erstellen
+    - Abnahmetests
+# 01. Juni 2023
+- Was wurde heute gemacht?
+  - Ich habe heute mit Louis begonnen das docker-compose file und die Images zu erstellen
+- Was lief gut?
+  - Wir mussten uns zuerst nochmals ein wenig einlesen, damit wir das Compose-File sicher richtig machen.
+- Wo gab es Schwierigkeiten
+  - Leider war es nicht mehr so einfach wie wir es in Erinnerung hatten und wir sind nicht fertig geworden.
+- Hilfestellungen
+  - Docker-Docs
+  - Modul 169 Skript
+- Wie sah der Zeitaufwand aus?
+  - Wir nutzten die ganzen 90 Minuten im Unterricht
+- Was muss noch gemacht werden?
+  - Ich muss jetzt noch folgendes machen
+    - Abnahmetests
+    - docker-compose erstellen
