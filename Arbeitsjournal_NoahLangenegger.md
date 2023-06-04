@@ -69,3 +69,60 @@ In der Schule starteten wir heute mit dem zweiten Teil des Projekts. Zuerst klä
 - Wie sah der Zeitaufwand aus?
   - Der Zeitaufwand betrug ca. 1.5 h
  
+## 24. Mai 2023
+- Was wurde heute gemacht?
+  - Dokument erstellt
+  - Besprechung und Aufgabenaufteilung
+- Was lief gut?
+  - Aufgabenaufteilung
+- Wo gab es Schwierigkeiten?
+  - keine
+- Wie sah der Zeitaufwand aus?
+  - Der Zeitaufwand betrug ca. 1.5 h
+
+## 28. Mai 2023
+- Was wurde heute gemacht?
+  - Einführungsvorgehen beschrieben
+  - Einführungsorganisation beschrieben
+- Was lief gut?
+  - Einrührungsorganisation, da wir diese im Vorhinein besprochen haben
+- Wo gab es Schwierigkeiten?
+  - keine
+- Wie sah der Zeitaufwand aus?
+  - Der Zeitaufwand betrug ca. 2 h
+
+## 31. Mai 2023
+- Was wurde heute gemacht?
+  - Notfallmassnahmen und Notfallkonzept erstellt
+  - Meilensteine aufgeführt
+- Was lief gut?
+  - Notfallkonzept und Notfallmassnahmen
+- Wo gab es Schwierigkeiten?
+  - Beschreibung der Meilensteine, da wir nicht genau wussten, für welche wir uns entscheiden sollen
+- Wie sah der Zeitaufwand aus?
+  - Der Zeitaufwand betrug ca. 3 h
+
+## 01. Juni 2023
+- Was wurde heute gemacht?
+  - Detaillplanung erstellt
+  - Glossar erstellt
+- Was lief gut?
+  - Detaillplanung, da die Meilensteine gut gesetzt sind
+- Wo gab es Schwierigkeiten?
+  - keine
+- Wie sah der Zeitaufwand aus?
+  - Der Zeitaufwand betrug ca. 1.5 h
+
+## 04. Juni 2023
+- Was wurde heute gemacht?
+  - Testfälle beschrieben
+  - Reflexion erstellt
+- Was lief gut?
+  - Reflexion
+- Wo gab es Schwierigkeiten?
+  - Wir hatten Schwierigkeiten beim Erstellen der Testfälle
+- Wie sah der Zeitaufwand aus?
+  - Der Zeitaufwand betrug ca. 2h
+
+
+
